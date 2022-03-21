@@ -8,10 +8,10 @@ output: .retype # Custom path to the output directory.
 
 # -----------------------------------------------------------------------------
 
-url: example.com               # The base URL of your website.
-url: docs.example.com          # Can also be a sub-domain.
-url: example.com/docs          # Can also include a sub-folder path.
-url: https://example.com/docs/ # Can also include a protocol.
+# url: 3dprintable.io               # The base URL of your website.
+url: docs.3dprintable.io          # Can also be a sub-domain.
+# url: example.com/docs          # Can also include a sub-folder path.
+# url: https://example.com/docs/ # Can also include a protocol.
 
 # -----------------------------------------------------------------------------
 
@@ -22,9 +22,9 @@ poweredByRetype: true # Set to false to remove the Powered by Retype branding.
 # -----------------------------------------------------------------------------
 
 branding:
-  title: Example                 # Your custom website title; keep it short.
-  logo: static/logo.png          # Path to a logo file.
-  logoDark: static/logo-dark.png # Path to a logo file to use in dark mode.
+  title: 3DPrintable                 # Your custom website title; keep it short.
+  logo: static/3DPrintable_Logo_BlackType.png        # Path to a logo file.
+  logoDark: 3DPrintable_Logo_WhiteType.png# Path to a logo file to use in dark mode.
   logoAlign: right               # Align the logo to the right or the left.
   label: Docs # Optional label. To remove the label, remove this config.
   colors:

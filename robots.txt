@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://3dprintable.io/sitemap.xml.gz

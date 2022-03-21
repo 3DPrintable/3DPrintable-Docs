@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://app.3dprintable.io/sitemap.xml.gz
+Sitemap: https://retype.com/sitemap.xml.gz

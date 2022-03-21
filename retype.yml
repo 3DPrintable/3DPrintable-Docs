@@ -1,6 +1,6 @@
 input: ./
 output: .retype
-url: http://3dprintable.io/
+url: app.3dprintable.io
 
 branding:
   title: 3DPrintable

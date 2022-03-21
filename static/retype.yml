@@ -23,8 +23,8 @@ poweredByRetype: true # Set to false to remove the Powered by Retype branding.
 
 branding:
   title: 3DPrintable                 # Your custom website title; keep it short.
-  logo: static/3DPrintable_Logo_BlackType.png        # Path to a logo file.
-  logoDark: 3DPrintable_Logo_WhiteType.png# Path to a logo file to use in dark mode.
+  logo: static/3DPrintable_Logo_BlackType.png # Path to a logo file.
+  logoDark: 3DPrintable_Logo_WhiteType.png # Path to a logo file to use in dark mode.
   logoAlign: right               # Align the logo to the right or the left.
   label: Docs # Optional label. To remove the label, remove this config.
   colors:
@@ -65,11 +65,11 @@ cname: example.com # The CNAME file value, or false to not create a CNAME file.
 
 # -----------------------------------------------------------------------------
 
-edit:
-  repo: ""   # The URL where the source files for this project are located.
-  base: ""   # Otional base path to a directory within the above repo.
-  branch: "" # Point to a custom branch within the repo.
-  label: "Edit this page" # A custom label for the generated link.
+# edit:
+#   repo: ""   # The URL where the source files for this project are located.
+#   base: ""   # Otional base path to a directory within the above repo.
+#   branch: "" # Point to a custom branch within the repo.
+#   label: "Edit this page" # A custom label for the generated link.
 
 # -----------------------------------------------------------------------------
 
